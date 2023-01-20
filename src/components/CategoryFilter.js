@@ -23,3 +23,4 @@ function CategoryFilter({onButton,selectedButton,categories}) {
 }
 
 export default CategoryFilter;
+

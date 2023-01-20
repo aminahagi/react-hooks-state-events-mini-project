@@ -12,3 +12,4 @@ function Task ({text,category,deletedItem}){
 }
 
 export default Task;
+

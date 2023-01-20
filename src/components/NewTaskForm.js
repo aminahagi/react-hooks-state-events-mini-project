@@ -43,3 +43,4 @@ function NewTaskForm({onTaskFormSubmit,categories}) {
 }
 
 export default NewTaskForm;
+
